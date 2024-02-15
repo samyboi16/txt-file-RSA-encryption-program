@@ -23,8 +23,8 @@ Run the same above in cmd or powershell
 * ttkthemes
 
 **For MacOS and Linux:**  
-Install them by pasting the commands in the terminal
-pip install rsa ttkbootstrap ttkthemes
+Install them by pasting the commands in the terminal  
+`pip install rsa ttkbootstrap ttkthemes`
  
 **For Windows:**  
 Run the above in cmd or powershell
