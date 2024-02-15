@@ -4,10 +4,10 @@ This is a python GUI application utilizing RSA cryptography to encrypt and decry
 **NOTE: THIS PROGRAM IS A PROOF OF CONCEPT WORK, USING RSA AS A FILE ENCRYPTION ALGORITHM, IT HAS IT'S FAULTS WHICH INCLUDE:**  
 * **THE ENCRYPT AND DECRYPT CAN ONLY BE DONE WHLE THE PROGRAM IS RUNNING, CLOSURE OF THE PROGRAM WILL RESULT IN LOSS OF DATA**
 * **THE SHRED FEATURE WILL PERMENANTLY DELETE A TEXT FILE**
-  
+******************************************************************************  
 ## How to use the program
 ### Prerequisites
-* Have the latest python version :- Python 3.12.0 
+* Have the latest python version :- Python 3.11.0 
 * Have pip
 
 **For MacOS and Linux:**  
