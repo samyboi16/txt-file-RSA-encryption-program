@@ -46,10 +46,16 @@ By default, All the functionality of the program is disabled and needs a passwor
 ## Encryption  
 Click on the encrypt button and choose your text file to encrypt. after the encryption is done a dialog box will be shown saying file is encrypted. The name of the encrypted file was the same as its original name.
 
-## Decryption  
+## Decryption
 For the decryption process, click on decrypt button and choose the encrypted file. After decryption a dialog box will appear saying file is decrypted.
+
+## Singing and verifying  
+This feature allows to signing and verifying files to see if there were any unauthorized tampering was done to the file.Signing is done before encryption and verification is done after decryption. Signing creates a SHA512 signature of the file. If any change was done to file, the verification process will yield invalid.
 
 ## Shredding file  
 The shred button helps in deleting files from the program itself. Click on shred and select the file to be deleted.
+
+## Creating a new file
+Another feature of the program is to create a new text file within the program and save it at your desired location. Type out the message in the text box, click on Save decrypted content and choose where to save.
 
   
